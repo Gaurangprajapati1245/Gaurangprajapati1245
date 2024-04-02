@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning advanced javascript
 - 💬 Ask me about Web Development
 - 📫 How to reach me: gaurangprajapati1245@gmail.com
-- 📝 [Resume](https://drive.google.com/file/d/1n-boUyOJqMHPsivao1j02Y7bDurhedeX/view?usp=drive_link). 
+- 📝 [Resume](https://drive.google.com/file/d/1BTvCKvP--HafRPrlhotqMg2_visVfhHQ/view?usp=sharing). 
 - ☕ I believe a perfect cup of coffee can be the ultimate solution for any stress.
 
 ## 🛠 My favorite tools
